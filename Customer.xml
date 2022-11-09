@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="windows-1252" standalone="yes"?>
+<Records>
+  <Record>
+    <Row
+      A="1001"
+      B="Vijay Kumar Bandlamudi"
+      C="1551 Finwood Road New Jersey"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="1002"
+      B="Karan Kumar"
+      C="2903 University Hill Road Illinois"
+    />
+  </Record>
+  <Record>
+    <Row
+      A="1003"
+      B="Varun Kumar"
+      C="2872 Long Street Florida"
+    />
+  </Record>
+</Records>
